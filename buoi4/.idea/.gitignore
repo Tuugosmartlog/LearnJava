@@ -1,0 +1,120 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+
+# Gradle
+.gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+.gradle
+build/
+out/
+gradlew
+gradlew.bat
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+# Ignore Gradle log files
+gradle.log
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+.idea/*
+!/.idea/inspectionProfiles
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/libraries
+.idea/artifacts
+.idea/shelf
+.idea/compiler.xml
+.idea/jarRepositories.xml
+.idea/modules.xml
+.idea/sonarlint
+.idea/codeStyles
+.idea/codeStyles/codeStyleConfig.xml
+.idea/codeStyles/Project.xml
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Eclipse
+.classpath
+.project
+.settings/
+target/
+bin/
+tmp/
+
+# BlueJ
+*.ctxt
+
+# Android Studio
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/libraries
+.idea/misc.xml
+.gradle/
+build/
+captures/
+output.json
+# Windows thumbnail cache files
+Thumbs.db
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~
+
+# Build directories
+target/
+bin/
+out/
+
+# Compiled class file
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.log
+*.gz
+*.7z
+*.xz
